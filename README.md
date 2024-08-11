@@ -12,13 +12,33 @@ STREAM DIRECTOR has the following features.
 
 バージョン 1.0 / Version 1.0
 
-* サウンド入力デバイスをダイアグラム上に列挙します / Enumerate sound input devices on the diagram
-* サウンド出力デバイスをダイアグラム上に列挙します / Enumerate sound output devices on the diagram
-* アプリケーション（プロセス）が音を発している場合、そのアプリケーションをダイアグラム上に列挙します / If an application (process) is sound, it is listed on the diagram
-* 任意のサウンド入力デバイスと任意のサウンド出力デバイスをコネクターツールで結ぶことにより、サウンド入力デバイスでキャプチャした音声をサウンド出力デバイスで再生できます / Connect any sound input device to any sound output device with the Connector Tool to playback audio captured on the sound input device on the sound output device
-* 任意のアプリケーションと任意のサウンド出力デバイスをコネクターツールで結ぶことにより、対象アプリケーションでキャプチャした音声をサウンド出力デバイスで再生できます / By connecting any application and any sound output device with the connector tool, audio captured by the target application can be played back on the sound output device
-* コネクターツールによって結ばれた、サウンド入力デバイスや対象アプリケーションの音量をボリュームメーターで表示します / Displays the volume level of sound input devices and target applications connected by the Connector tool with a volume meter
-* コネクターツールによって結ばれた、サウンド入力デバイスや対象アプリケーションの音量をフェーダーで音量調整できます / Faders can be used to adjust the volume of sound input devices and target applications connected by the Connector tool
+* サウンド入力デバイスをダイアグラム上に列挙します
+
+   Enumerate sound input devices on the diagram
+
+* サウンド出力デバイスをダイアグラム上に列挙します
+
+  Enumerate sound output devices on the diagram
+
+* アプリケーション（プロセス）が音を発している場合、そのアプリケーションをダイアグラム上に列挙します
+
+    If an application (process) is sound, it is listed on the diagram
+
+* 任意のサウンド入力デバイスと任意のサウンド出力デバイスをコネクターツールで結ぶことにより、サウンド入力デバイスでキャプチャした音声をサウンド出力デバイスで再生できます
+
+    Connect any sound input device to any sound output device with the Connector Tool to playback audio captured on the sound input device on the sound output device
+
+* 任意のアプリケーションと任意のサウンド出力デバイスをコネクターツールで結ぶことにより、対象アプリケーションでキャプチャした音声をサウンド出力デバイスで再生できます
+
+    By connecting any application and any sound output device with the connector tool, audio captured by the target application can be played back on the sound output device
+
+* コネクターツールによって結ばれた、サウンド入力デバイスや対象アプリケーションの音量をボリュームメーターで表示します
+
+    Displays the volume level of sound input devices and target applications connected by the Connector tool with a volume meter
+
+* コネクターツールによって結ばれた、サウンド入力デバイスや対象アプリケーションの音量をフェーダーで音量調整できます
+
+    Faders can be used to adjust the volume of sound input devices and target applications connected by the Connector tool
 
 # インストール / Install
 
